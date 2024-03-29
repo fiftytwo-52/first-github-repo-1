@@ -1,2 +1,3 @@
-# first-github-repoa-1
+# first-github-repo-1
 first repo created after github class.......
+Author: GaNesh Khatiwada
